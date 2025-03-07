@@ -7,6 +7,7 @@
         "type": "git",
         "url": "https://github.com/Latria-Kure/switch-hs.git"
     },
+    "publisher": "latria",
     "engines": {
         "vscode": "^1.60.0"
     },
